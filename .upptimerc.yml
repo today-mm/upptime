@@ -15,16 +15,16 @@ sites:
     url: https://preprodpayments.wavemoney.io:8107
   - name: Wave Money Production
     url: https://payments.wavemoney.io
-  - name: TODAY TBD Dash
-    url: https://dash.todaybooks.com.mm/
-  - name: TODAY TBD Site
-    url: https://www.todaybooks.com.mm/
+  - name: TBS Dash
+    url: https://dash.todaybooks.com.mm
+  - name: TBS Site
+    url: https://www.todaybooks.com.mm
   - name: TODAY Note
-    url: https://note.todaybooks.com.mm/
+    url: https://note.todaybooks.com.mm
   - name: TODAY Myanmar Font Converter
-    url: https://mmfontconverter.todaybooks.com.mm/
+    url: https://mmfontconverter.todaybooks.com.mm
   - name: TODAY Syllable
-    url: https://mmsyllable.todaybooks.com.mm/
+    url: https://mmsyllable.todaybooks.com.mm
 
 
 status-website:
@@ -33,7 +33,7 @@ status-website:
   # cname: today-mm.js.org/uppptime/
   cname: today-mm.github.io/upptime/
   baseUrl: /uppptime
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://todaybooks.com.mm/assets/img/logo.png
   name: TODAY Uptime Monitor
   introTitle: "TODAY / Uptime Monitor and Status"
   introMessage: TODAY Book Store uptime monitor and status page
