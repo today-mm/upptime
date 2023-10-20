@@ -30,10 +30,11 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uppptime.today-mm.js.org
+  #cname: uppptime.today-mm.js.org
+  #baseUrl: /uppptime
   baseUrl: /uppptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: TODAY Uptime Monitor
   introTitle: "TODAY / Uptime Monitor and Status"
   introMessage: TODAY Book Store uptime monitor and status page
   navbar:
