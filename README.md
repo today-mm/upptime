@@ -1,31 +1,6 @@
 # [![Upptime](upptime/assets/github-header-image.png)
 
 
-Monitor Services
-```
-2c2p Production
-https://pgw.2c2p.com
-2c2p Sandbox
-https://sandbox-pgw.2c2p.com
-Wave Money Testing
-https://testpayments.wavemoney.io:8107
-Wave Money UAT
-https://uatpayments.wavemoney.io:8107
-Wave Money Pre Production
-https://preprodpayments.wavemoney.io:8107
-Wave Money Production
-https://payments.wavemoney.io
-TODAY TBD Dash
-https://dash.todaybooks.com.mm/
-TODAY TBD Site
-https://www.todaybooks.com.mm/
-TODAY Note
-https://note.todaybooks.com.mm/
-TODAY Myanmar Font Converter
-https://mmfontconverter.todaybooks.com.mm/
-TODAY Syllable
-https://mmsyllable.todaybooks.com.mm/
-```
 
 
 ## [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
@@ -61,3 +36,31 @@ https://mmsyllable.todaybooks.com.mm/
   - A simple, beautiful, and accessible PWA is generated
   - Built with Svelte and Sapper
   - Fetches data from this repository using the GitHub API
+
+
+
+### Monitor Services
+```
+2c2p Production
+https://pgw.2c2p.com
+2c2p Sandbox
+https://sandbox-pgw.2c2p.com
+Wave Money Testing
+https://testpayments.wavemoney.io:8107
+Wave Money UAT
+https://uatpayments.wavemoney.io:8107
+Wave Money Pre Production
+https://preprodpayments.wavemoney.io:8107
+Wave Money Production
+https://payments.wavemoney.io
+TODAY TBD Dash
+https://dash.todaybooks.com.mm/
+TODAY TBD Site
+https://www.todaybooks.com.mm/
+TODAY Note
+https://note.todaybooks.com.mm/
+TODAY Myanmar Font Converter
+https://mmfontconverter.todaybooks.com.mm/
+TODAY Syllable
+https://mmsyllable.todaybooks.com.mm/
+```
