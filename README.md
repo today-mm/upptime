@@ -22,7 +22,15 @@ TODAY Book Store uptime monitor and status page
 
 <!--end: status pages-->
 
-## ⭐ How it works
+
+## History
+
+https://demo.upptime.js.org/history/google
+https://demo.upptime.js.org/history/google
+https://demo.upptime.js.org/history/google
+https://demo.upptime.js.org/history/google
+
+## How it works
 
 - GitHub Actions is used as an uptime monitor
   - Every 5 minutes, a workflow visits your website to make sure it's up
