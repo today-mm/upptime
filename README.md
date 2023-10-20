@@ -24,10 +24,11 @@ TODAY Book Store uptime monitor and status page
 
 ## History
 
-https://demo.upptime.js.org/history/google
-https://demo.upptime.js.org/history/google
-https://demo.upptime.js.org/history/google
-https://demo.upptime.js.org/history/google
+- [2c2p Production](https://demo.upptime.js.org/history/2c2p-production)
+- [2c2p Production](https://demo.upptime.js.org/history/2c2p-production)
+- [2c2p Production](https://demo.upptime.js.org/history/2c2p-production)
+- [2c2p Production](https://demo.upptime.js.org/history/2c2p-production)
+- [2c2p Production](https://demo.upptime.js.org/history/2c2p-production)
 
 ## How it works
 
