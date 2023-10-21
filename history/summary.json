@@ -16,7 +16,7 @@
     "timeMonth": 909,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-10-21": 1001,
+      "2023-10-21": 1013,
       "2023-10-20": 93
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 909,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2023-10-21": 1001,
+      "2023-10-21": 1013,
       "2023-10-20": 93
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1001,
+      "2023-10-21": 1013,
       "2023-10-20": 93
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1001,
+      "2023-10-21": 1013,
       "2023-10-20": 93
     }
   },
@@ -136,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1001,
+      "2023-10-21": 1013,
       "2023-10-20": 42
     }
   },
@@ -146,11 +146,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.todaybooks.com.mm.ico",
     "slug": "tbs-site",
     "status": "up",
-    "uptime": "97.38%",
-    "uptimeDay": "97.38%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptime": "97.41%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.41%",
     "time": 1326,
     "timeDay": 1326,
     "timeWeek": 1326,
@@ -165,19 +165,19 @@
     "url": "https://note.todaybooks.com.mm",
     "icon": "https://icons.duckduckgo.com/ip3/note.todaybooks.com.mm.ico",
     "slug": "today-note",
-    "status": "down",
-    "uptime": "79.76%",
-    "uptimeDay": "79.76%",
-    "uptimeWeek": "79.76%",
-    "uptimeMonth": "79.76%",
-    "uptimeYear": "79.76%",
-    "time": 780,
-    "timeDay": 780,
-    "timeWeek": 780,
-    "timeMonth": 780,
-    "timeYear": 780,
+    "status": "up",
+    "uptime": "78.94%",
+    "uptimeDay": "78.94%",
+    "uptimeWeek": "78.94%",
+    "uptimeMonth": "78.94%",
+    "uptimeYear": "78.94%",
+    "time": 775,
+    "timeDay": 775,
+    "timeWeek": 775,
+    "timeMonth": 775,
+    "timeYear": 775,
     "dailyMinutesDown": {
-      "2023-10-21": 129,
+      "2023-10-21": 141,
       "2023-10-20": 92
     }
   },
@@ -198,7 +198,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1002,
+      "2023-10-21": 1013,
       "2023-10-20": 92
     }
   },
@@ -219,7 +219,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-21": 1002,
+      "2023-10-21": 1013,
       "2023-10-20": 92
     }
   }
