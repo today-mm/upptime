@@ -37,7 +37,7 @@ status-website:
   # cname: today-mm.js.org/uppptime/
   #apiBaseUrl: https://api.github.com
   #cname: today-mm.github.io/upptime
-  baseUrl: /uppptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   #logoUrl: https://todaybooks.com.mm/assets/img/logo.png
   name: TODAY Uptime Monitor
