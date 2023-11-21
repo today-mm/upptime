@@ -1,7 +1,7 @@
 url: https://www.todaybooks.com.mm
-status: up
-code: 200
-responseTime: 1689
-lastUpdated: 2023-11-20T23:01:42.293Z
+status: down
+code: 500
+responseTime: 2646
+lastUpdated: 2023-11-21T03:49:18.757Z
 startTime: 2023-10-20T23:17:34.748Z
 generator: Upptime <https://github.com/upptime/upptime>
