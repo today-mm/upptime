@@ -1,7 +1,7 @@
 url: https://pgw.2c2p.com/payment/4.3/initialization
-status: up
-code: 200
-responseTime: 181
-lastUpdated: 2024-02-13T23:29:13.568Z
+status: down
+code: 411
+responseTime: 909
+lastUpdated: 2024-02-13T23:40:36.638Z
 startTime: 2023-10-20T22:27:13.528Z
 generator: Upptime <https://github.com/upptime/upptime>
