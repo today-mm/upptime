@@ -1,7 +1,7 @@
 url: https://dash.todaybooks.com.mm
-status: up
-code: 200
-responseTime: 878
-lastUpdated: 2024-11-18T23:07:16.402Z
+status: down
+code: 500
+responseTime: 2767
+lastUpdated: 2024-11-19T04:29:19.294Z
 startTime: 2023-10-20T23:17:28.821Z
 generator: Upptime <https://github.com/upptime/upptime>
