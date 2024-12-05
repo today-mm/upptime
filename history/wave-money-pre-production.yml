@@ -1,7 +1,7 @@
 url: https://preprodpayments.wavemoney.io:8107
-status: down
-code: 503
-responseTime: 896
-lastUpdated: 2024-12-04T23:07:41.352Z
+status: up
+code: 200
+responseTime: 1076
+lastUpdated: 2024-12-05T02:46:46.447Z
 startTime: 2023-10-20T22:27:28.970Z
 generator: Upptime <https://github.com/upptime/upptime>
