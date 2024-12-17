@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgw.2c2p.com.ico",
     "slug": "2c2p-production",
     "status": "up",
-    "uptime": "72.47%",
+    "uptime": "72.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.64%",
+    "uptimeYear": "83.77%",
     "time": 894,
-    "timeDay": 897,
-    "timeWeek": 911,
-    "timeMonth": 910,
+    "timeDay": 967,
+    "timeWeek": 918,
+    "timeMonth": 907,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2024-02-14": 429,
@@ -73,8 +73,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -89,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 908,
-    "timeDay": 851,
-    "timeWeek": 862,
-    "timeMonth": 855,
+    "timeDay": 1043,
+    "timeWeek": 898,
+    "timeMonth": 858,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2024-09-26": 149,
@@ -111,13 +110,14 @@
     "uptimeWeek": "26.29%",
     "uptimeMonth": "7.43%",
     "uptimeYear": "0.23%",
-    "time": 1099,
-    "timeDay": 981,
-    "timeWeek": 1099,
-    "timeMonth": 1099,
-    "timeYear": 1099,
+    "time": 1108,
+    "timeDay": 1052,
+    "timeWeek": 1108,
+    "timeMonth": 1108,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2024-12-16": 181,
+      "2024-12-17": 62,
+      "2024-12-16": 801,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 788,
@@ -480,8 +480,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -501,7 +500,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-16": 820,
+      "2024-12-17": 62,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -864,8 +864,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -874,18 +873,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/preprodpayments.wavemoney.io.ico",
     "slug": "wave-money-pre-production",
     "status": "down",
-    "uptime": "88.78%",
-    "uptimeDay": "99.77%",
+    "uptime": "88.68%",
+    "uptimeDay": "52.39%",
     "uptimeWeek": "51.07%",
     "uptimeMonth": "40.72%",
-    "uptimeYear": "87.17%",
-    "time": 1029,
-    "timeDay": 1009,
-    "timeWeek": 1100,
+    "uptimeYear": "87.04%",
+    "time": 1030,
+    "timeDay": 1121,
+    "timeWeek": 1114,
     "timeMonth": 1093,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2024-12-16": 3,
+      "2024-12-17": 62,
+      "2024-12-16": 623,
       "2024-12-14": 562,
       "2024-12-13": 788,
       "2024-12-12": 734,
@@ -1005,16 +1005,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/payments.wavemoney.io.ico",
     "slug": "wave-money-production",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.84%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "98.98%",
     "time": 980,
-    "timeDay": 1056,
-    "timeWeek": 893,
-    "timeMonth": 992,
-    "timeYear": 984,
+    "timeDay": 1249,
+    "timeWeek": 905,
+    "timeMonth": 995,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-12-13": 107,
       "2024-12-12": 37,
@@ -1069,10 +1069,10 @@
     "uptimeMonth": "91.94%",
     "uptimeYear": "95.55%",
     "time": 1419,
-    "timeDay": 740,
-    "timeWeek": 1008,
-    "timeMonth": 1166,
-    "timeYear": 1403,
+    "timeDay": 1405,
+    "timeWeek": 1093,
+    "timeMonth": 1176,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2024-11-26": 456,
       "2024-11-25": 270,
@@ -1112,8 +1112,7 @@
       "2024-10-05": 94,
       "2024-09-18": 366,
       "2024-02-05": 58,
-      "2024-01-22": 28,
-      "2023-12-18": 39
+      "2024-01-22": 28
     }
   },
   {
@@ -1122,18 +1121,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.todaybooks.com.mm.ico",
     "slug": "tbs-site",
     "status": "down",
-    "uptime": "67.13%",
+    "uptime": "67.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.96%",
+    "uptimeYear": "61.83%",
     "time": 2786,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2965,
     "dailyMinutesDown": {
-      "2024-12-16": 820,
+      "2024-12-17": 63,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -1273,8 +1273,7 @@
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 318,
-      "2024-02-05": 57,
-      "2023-12-18": 39
+      "2024-02-05": 57
     }
   },
   {
@@ -1283,18 +1282,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/note.todaybooks.com.mm.ico",
     "slug": "today-note",
     "status": "down",
-    "uptime": "83.01%",
+    "uptime": "82.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.37%",
+    "uptimeYear": "80.24%",
     "time": 1215,
-    "timeDay": 1395,
-    "timeWeek": 964,
-    "timeMonth": 938,
-    "timeYear": 1179,
+    "timeDay": 1568,
+    "timeWeek": 1077,
+    "timeMonth": 961,
+    "timeYear": 1180,
     "dailyMinutesDown": {
-      "2024-12-16": 820,
+      "2024-12-17": 63,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -1386,7 +1386,8 @@
     "timeMonth": 557,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2024-12-16": 820,
+      "2024-12-17": 63,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -1749,8 +1750,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   },
   {
@@ -1770,7 +1770,8 @@
     "timeMonth": 575,
     "timeYear": 2540,
     "dailyMinutesDown": {
-      "2024-12-16": 820,
+      "2024-12-17": 63,
+      "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
@@ -2133,8 +2134,7 @@
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
-      "2023-12-19": 1440,
-      "2023-12-18": 1440
+      "2023-12-19": 1440
     }
   }
 ]
