@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pgw.2c2p.com.ico",
     "slug": "2c2p-production",
     "status": "up",
-    "uptime": "73.47%",
+    "uptime": "73.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -101,7 +101,7 @@
     "timeMonth": 1145,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2025-01-01": 145,
+      "2025-01-01": 157,
       "2024-12-31": 761,
       "2024-12-30": 761,
       "2024-12-29": 1440,
@@ -485,7 +485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-01": 814,
+      "2025-01-01": 825,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -857,19 +857,19 @@
     "url": "https://preprodpayments.wavemoney.io:8107",
     "icon": "https://icons.duckduckgo.com/ip3/preprodpayments.wavemoney.io.ico",
     "slug": "wave-money-pre-production",
-    "status": "up",
-    "uptime": "88.07%",
-    "uptimeDay": "46.98%",
-    "uptimeWeek": "64.97%",
-    "uptimeMonth": "48.08%",
-    "uptimeYear": "85.66%",
+    "status": "down",
+    "uptime": "88.08%",
+    "uptimeDay": "47.18%",
+    "uptimeWeek": "65.05%",
+    "uptimeMonth": "48.10%",
+    "uptimeYear": "85.67%",
     "time": 1031,
-    "timeDay": 1138,
-    "timeWeek": 1045,
-    "timeMonth": 1068,
+    "timeDay": 1108,
+    "timeWeek": 1042,
+    "timeMonth": 1067,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2025-01-01": 142,
+      "2025-01-01": 145,
       "2024-12-31": 748,
       "2024-12-30": 623,
       "2024-12-28": 107,
@@ -983,8 +983,7 @@
       "2024-03-27": 569,
       "2024-03-26": 802,
       "2024-03-22": 228,
-      "2024-02-29": 176,
-      "2024-02-26": 64
+      "2024-02-29": 176
     }
   },
   {
@@ -1117,7 +1116,7 @@
     "timeMonth": 0,
     "timeYear": 2868,
     "dailyMinutesDown": {
-      "2025-01-01": 814,
+      "2025-01-01": 825,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1293,7 +1292,7 @@
     "timeMonth": 968,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-01-01": 814,
+      "2025-01-01": 825,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1401,7 +1400,7 @@
     "timeMonth": 578,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-01-01": 814,
+      "2025-01-01": 825,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -1785,7 +1784,7 @@
     "timeMonth": 607,
     "timeYear": 2540,
     "dailyMinutesDown": {
-      "2025-01-01": 814,
+      "2025-01-01": 825,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
