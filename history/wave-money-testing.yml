@@ -1,7 +1,7 @@
 url: https://testpayments.wavemoney.io:8107
-status: down
-code: 404
-responseTime: 978
-lastUpdated: 2025-03-02T23:06:35.243Z
+status: up
+code: 200
+responseTime: 1151
+lastUpdated: 2025-03-03T01:48:49.936Z
 startTime: 2023-10-20T22:27:21.088Z
 generator: Upptime <https://github.com/upptime/upptime>
