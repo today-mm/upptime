@@ -4,19 +4,19 @@
     "url": "https://pgw.2c2p.com/payment/4.3/initialization",
     "icon": "https://icons.duckduckgo.com/ip3/pgw.2c2p.com.ico",
     "slug": "2c2p-production",
-    "status": "down",
+    "status": "up",
     "uptime": "83.26%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 914,
-    "timeDay": 865,
-    "timeWeek": 918,
-    "timeMonth": 906,
+    "timeDay": 899,
+    "timeWeek": 923,
+    "timeMonth": 908,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2025-09-14": 2
+      "2025-09-14": 24
     }
   },
   {
@@ -57,7 +57,7 @@
     "timeMonth": 1127,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2025-09-14": 1287,
+      "2025-09-14": 1311,
       "2025-09-13": 1440,
       "2025-09-12": 743,
       "2025-09-11": 741,
@@ -213,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-14": 1287,
+      "2025-09-14": 1311,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -873,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-14": 1288,
+      "2025-09-14": 1311,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -1257,7 +1257,7 @@
     "timeMonth": 882,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2025-09-14": 1288,
+      "2025-09-14": 1311,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -1621,7 +1621,7 @@
     "timeMonth": 19862,
     "timeYear": 18381,
     "dailyMinutesDown": {
-      "2025-09-14": 1288,
+      "2025-09-14": 1311,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
@@ -2005,7 +2005,7 @@
     "timeMonth": 19819,
     "timeYear": 18238,
     "dailyMinutesDown": {
-      "2025-09-14": 1288,
+      "2025-09-14": 1311,
       "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
