@@ -24,19 +24,19 @@
     "url": "https://sandbox-pgw.2c2p.com/payment/4.3/initialization",
     "icon": "https://icons.duckduckgo.com/ip3/sandbox-pgw.2c2p.com.ico",
     "slug": "2c2p-sandbox",
-    "status": "down",
-    "uptime": "97.28%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "status": "up",
+    "uptime": "97.27%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 873,
-    "timeDay": 950,
-    "timeWeek": 923,
-    "timeMonth": 882,
+    "timeDay": 951,
+    "timeWeek": 927,
+    "timeMonth": 884,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2025-12-25": 2
+      "2025-12-25": 21
     }
   },
   {
@@ -49,14 +49,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.35%",
+    "uptimeYear": "47.34%",
     "time": 1063,
     "timeDay": 218,
     "timeWeek": 190,
     "timeMonth": 210,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2025-12-25": 1034,
+      "2025-12-25": 1056,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-25": 1034,
+      "2025-12-25": 1056,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -944,7 +944,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-25": 1035,
+      "2025-12-25": 1056,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -1328,7 +1328,7 @@
     "timeMonth": 1070,
     "timeYear": 981,
     "dailyMinutesDown": {
-      "2025-12-25": 1035,
+      "2025-12-25": 1056,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -1712,7 +1712,7 @@
     "timeMonth": 18028,
     "timeYear": 19283,
     "dailyMinutesDown": {
-      "2025-12-25": 1035,
+      "2025-12-25": 1056,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1422,
@@ -2096,7 +2096,7 @@
     "timeMonth": 18036,
     "timeYear": 19124,
     "dailyMinutesDown": {
-      "2025-12-25": 1035,
+      "2025-12-25": 1056,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1421,
