@@ -1,7 +1,7 @@
 url: https://payments.wavemoney.io
-status: down
-code: 403
-responseTime: 88
-lastUpdated: 2026-02-24T17:44:15.887Z
+status: up
+code: 200
+responseTime: 1073
+lastUpdated: 2026-02-24T18:39:26.418Z
 startTime: 2023-10-20T22:27:30.465Z
 generator: Upptime <https://github.com/upptime/upptime>
