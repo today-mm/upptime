@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 914,
-    "timeDay": 814,
-    "timeWeek": 885,
+    "timeDay": 968,
+    "timeWeek": 919,
     "timeMonth": 903,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 816,
-    "timeWeek": 854,
-    "timeMonth": 888,
+    "timeDay": 978,
+    "timeWeek": 889,
+    "timeMonth": 890,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2025-12-25": 21
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/testpayments.wavemoney.io.ico",
     "slug": "wave-money-testing",
     "status": "down",
-    "uptime": "69.27%",
+    "uptime": "69.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "26.51%",
-    "time": 973,
-    "timeDay": 157,
-    "timeWeek": 111,
-    "timeMonth": 132,
-    "timeYear": 902,
+    "uptimeYear": "26.43%",
+    "time": 972,
+    "timeDay": 288,
+    "timeWeek": 140,
+    "timeMonth": 133,
+    "timeYear": 901,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -389,7 +390,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -752,8 +754,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -762,18 +763,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/preprodpayments.wavemoney.io.ico",
     "slug": "wave-money-pre-production",
     "status": "down",
-    "uptime": "94.47%",
+    "uptime": "94.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "59.22%",
-    "uptimeMonth": "72.13%",
-    "uptimeYear": "86.78%",
-    "time": 1040,
-    "timeDay": 142,
-    "timeWeek": 1018,
-    "timeMonth": 819,
-    "timeYear": 1032,
+    "uptimeMonth": "71.27%",
+    "uptimeYear": "86.71%",
+    "time": 1039,
+    "timeDay": 225,
+    "timeWeek": 1037,
+    "timeMonth": 793,
+    "timeYear": 1031,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 967,
       "2026-03-06": 263,
       "2026-03-05": 1440,
@@ -908,10 +910,10 @@
     "uptimeWeek": "99.36%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.88%",
-    "time": 953,
-    "timeDay": 500,
-    "timeWeek": 828,
-    "timeMonth": 890,
+    "time": 954,
+    "timeDay": 562,
+    "timeWeek": 856,
+    "timeMonth": 893,
     "timeYear": 943,
     "dailyMinutesDown": {
       "2026-03-11": 65,
@@ -977,11 +979,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.10%",
-    "time": 1208,
-    "timeDay": 1324,
-    "timeWeek": 1095,
-    "timeMonth": 1031,
-    "timeYear": 1273,
+    "time": 1209,
+    "timeDay": 1474,
+    "timeWeek": 1112,
+    "timeMonth": 1047,
+    "timeYear": 1275,
     "dailyMinutesDown": {
       "2026-01-18": 83,
       "2026-01-17": 23,
@@ -1003,7 +1005,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.todaybooks.com.mm.ico",
     "slug": "tbs-site",
     "status": "down",
-    "uptime": "32.50%",
+    "uptime": "32.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1014,7 +1016,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1377,8 +1380,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1387,18 +1389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/note.todaybooks.com.mm.ico",
     "slug": "today-note",
     "status": "down",
-    "uptime": "40.19%",
+    "uptime": "40.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 973,
-    "timeDay": 709,
-    "timeWeek": 1076,
-    "timeMonth": 901,
-    "timeYear": 979,
+    "timeDay": 1549,
+    "timeWeek": 1111,
+    "timeMonth": 927,
+    "timeYear": 980,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -1761,8 +1764,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -1778,11 +1780,12 @@
     "uptimeYear": "2.32%",
     "time": 18478,
     "timeDay": 0,
-    "timeWeek": 19662,
+    "timeWeek": 19728,
     "timeMonth": 12068,
     "timeYear": 18637,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -2138,8 +2141,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   },
   {
@@ -2155,11 +2157,12 @@
     "uptimeYear": "2.32%",
     "time": 18342,
     "timeDay": 0,
-    "timeWeek": 19590,
+    "timeWeek": 19604,
     "timeMonth": 12107,
     "timeYear": 18496,
     "dailyMinutesDown": {
-      "2026-03-11": 1147,
+      "2026-03-12": 82,
+      "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
       "2026-03-08": 1440,
@@ -2515,8 +2518,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
-      "2025-03-13": 1440,
-      "2025-03-12": 1440
+      "2025-03-13": 1440
     }
   }
 ]
